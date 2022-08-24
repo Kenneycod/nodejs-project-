@@ -1,0 +1,49 @@
+main{
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 30px;
+}
+#search-button{
+    
+    position: relative;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  button[type=submit]{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background-color: #32a838;
+    color: #f2f2f2;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: medium;
+  }
+  input[type=email]{
+    width: 55%;
+    padding: 12px 20px;
+  }
+  input[type=phone]{
+    width: 56%;
+    padding: 12px 20px;
+  }
+  table,th,tb{
+    border-collapse: collapse;
+    border: 2px solid;
+  }
+  #table{
+    width: 100%;
+  }
+  thead{
+    padding: 10px 12px;
+  }
